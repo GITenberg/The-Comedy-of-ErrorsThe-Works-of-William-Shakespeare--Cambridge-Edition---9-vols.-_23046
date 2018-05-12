@@ -1,0 +1,56 @@
+_repo: The-Comedy-of-ErrorsThe-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-_23046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Glover, John, librarian of Trinity College, Cambridge
+    gutenberg_agent_id: '25743'
+    url: http://www.gutenberg.org/2009/agents/25743
+  - agent_name: Clark, William George
+    aliases:
+    - Clarke, William George
+    - Clark, W. G. (William George)
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+description: The Comedy of Errors is one of William Shakespeare's earliest plays,
+  believed to have been written between 1589 and 1594. It is his shortest and one
+  of his most farcical, with a major part of the humour coming from slapstick and
+  mistaken identity, in addition to puns and wordplay. The Comedy of Errors (along
+  with The Tempest) is one of only two of Shakespeare's plays to observe the classical
+  unities. It has been adapted for opera, stage, screen and musical theatre. The Comedy
+  of Errors tells the story of two sets of identical twins. Antipholus of Syracuse
+  and his servant, Dromio of Syracuse, a.
+gutenberg_issued: '2007-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mistaken identity -- Drama'
+- !lcsh 'Twins -- Drama'
+- !lcsh 'Greece -- Drama'
+- !lcsh 'Brothers -- Drama'
+- !lcc 'PR'
+- !lcsh 'Shipwreck victims -- Drama'
+- !lcsh 'Comedies'
+title: 'The Comedy of Errors
+
+  The Works of William Shakespeare [Cambridge Edition] [9 vols.]'
+url: http://www.gutenberg.org/ebooks/23046
